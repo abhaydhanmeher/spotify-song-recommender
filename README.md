@@ -1,4 +1,4 @@
-# spotify-style-recommender
+# spotify-song-recommender
 Spotify-Style Recommender 🎵
 A machine learning–based music recommendation system inspired by Spotify’s recommendation engine. The project uses collaborative filtering, content-based filtering, and deep learning techniques to suggest songs based on user preferences, listening history, and audio features.
 
